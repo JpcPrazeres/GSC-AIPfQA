@@ -1,9 +1,3 @@
-This repository contains the dataset, experimental assets, and results associated a **subjective quality assessment** **Gaussian Splatting Coding**
-
-The repository aggregates all materials required to reproduce, and analyze the subjective quality evaluation conducted in this work.
-
----
-
 ## Repository Overview
 
 The repository includes:
