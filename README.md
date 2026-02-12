@@ -49,15 +49,5 @@ Contains the collected subjective evaluation results, such as Mean Opinion Score
 ### 📄 `Subject_List.xlsx`
 Information related to test participants, including anonymized subject identifiers and any grouping or screening information used in the study.
 
----
-
-## Intended Use
-
-This repository is intended for:
-
-- Reproducibility of the subjective quality assessment experiments  
-- Analysis of subjective quality scores  
-- Benchmarking and comparison of Gaussian Splatting–based representations  
-- Research on perceptual quality assessment for 3D and novel view synthesis content  
 
 ---
